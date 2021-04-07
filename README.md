@@ -7,16 +7,8 @@
 #### 💬 I'm looking for a Full Stack Development role.
 #### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
 
-###  Languages
-<p> <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp
-   <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="gcp" width="40" height="40"/> </a>  &nbsp
-   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>  &nbsp
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-    </a>&nbsp
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-   <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-   <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-   </p>   
+###  Tech Stack
+![HTML](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blueviolet) ![CSS](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blueviolet) ![JavaScript](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blueviolet) ![JavaScript](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blueviolet) ![React](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=blueviolet) ![Redux](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blueviolet) ![Node.js](https://img.shields.io/badge/code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=blueviolet) ![Express](https://img.shields.io/badge/code-Express-informational?style=flat&logo=Express&logoColor=white&color=blueviolet) ![MySQL](https://img.shields.io/badge/code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blueviolet) ![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&logoColor=white&color=blueviolet)
    
 ### Tools
 <p>
