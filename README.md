@@ -5,7 +5,7 @@
 #### 💬 I'm looking for a Full Stack Development role.
 #### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
 
-##  Languages
+###  Languages
 <p> <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp
    <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="gcp" width="40" height="40"/> </a>  &nbsp
    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>  &nbsp
