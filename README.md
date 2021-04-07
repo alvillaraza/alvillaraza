@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### 🔭 I’m currently building an e-commerce site as a personal project.
+#### 🌱 I’m currently learning Vue.js.
+#### 💬 I'm looking for a Full Stack Development role.
+#### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
+
+
 <!--
 **alvillaraza/alvillaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
