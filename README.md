@@ -2,8 +2,7 @@
 
 ![cover](https://github.com/alvillaraza/alvillaraza/blob/main/images/github-banner.jpeg)
 
-#### 🔭 I’m currently building an e-commerce site as a personal project.
-#### 🌱 I’m currently learning Vue.js.
+#### 🌱 I’m currently developing: https://fake-store-rust.vercel.app/
 #### 💬 I'm looking for a Full Stack Development role.
 #### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
 
