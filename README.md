@@ -4,6 +4,7 @@
 
 #### 🌱 I’m currently developing: https://fake-store-rust.vercel.app/
 #### 💬 I'm looking for a Full Stack Development role.
+#### ⚡ Fun fact: I designed and sewed my own wedding dress.
 #### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
 
 ###  Tech Stack
