@@ -2,7 +2,8 @@
 
 ![cover](https://github.com/alvillaraza/alvillaraza/blob/main/images/github-banner.jpeg)
 
-#### 🌱 I’m currently developing: https://fake-store-rust.vercel.app/
+#### 🔭 I’m currently developing: https://fake-store-rust.vercel.app/
+#### 🌱 I’m currently taking Front End Master's Full Stack Course.
 #### 💬 I'm looking for a Full Stack Development role.
 #### ⚡ Fun fact: I designed and sewed my own wedding dress.
 #### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
