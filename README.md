@@ -3,11 +3,9 @@
 ![cover](https://github.com/alvillaraza/alvillaraza/blob/main/images/github-banner.jpeg)
 
 ## About Me
-I'm Alexis! I'm an experienced entrepreneur transitioning to a Full Stack Web Developer. I'm currently seeking to expand my knowledge in a collaborative environment where I can continue to learn and strengthen my problem solving skills! With a passion in eco-solutions, I hope to, one day, use my development skills to provide a positive impact to mother nature. Learn more about me: https://www.alexisvillaraza.com/
+I'm Alexis! I'm an experienced entrepreneur transitioning to a Full Stack Web Developer. I just accepted my first role as Software Engineer I and I'm excited to expand my knowledge in a collaborative environment where I can continue to learn and strengthen my problem solving skills! With a passion in eco-solutions, I hope to, one day, use my development skills to provide a positive impact to mother nature. Learn more about me: https://www.alexisvillaraza.com/
 
-#### 🔭 I’m currently developing: https://fake-store-rust.vercel.app/
 #### 🌱 I’m currently taking Front End Master's Full Stack Course.
-#### 💬 I'm looking for a Full Stack Development role.
 #### ⚡ Fun fact: I designed and sewed my own wedding dress.
 #### 📫 How to reach me: https://www.linkedin.com/in/alvillaraza/
 
@@ -29,6 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+#### 💬 I'm looking for a Full Stack Development role.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
